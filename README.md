@@ -1,6 +1,6 @@
 # CI/CD Pipeline for Web Application
 
-This documentation provides a detailed explanation of a fully automated CI/CD pipeline designed for a web application. It covers the use of industry-standard tools such as Git, Jenkins, Maven, SonarQube, Nexus, Docker, Kubernetes, and AWS. The document is structured to be clear and beginner-friendly, while still offering enough detail for advanced users.
+This project provides a detailed explanation of a fully automated CI/CD pipeline designed for a web application. It covers the use of industry-standard tools such as Git, Jenkins, Maven, SonarQube, Nexus, Docker, Kubernetes, and AWS. The document is structured to be clear and beginner-friendly, while still offering enough detail for advanced users.
 
 ---
 
