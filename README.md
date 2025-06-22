@@ -101,6 +101,13 @@ Fork the GitHub repository into your account to start working on your own copy.
 
 ## Pipeline Workflow
 
+Below is a visual representation of the CI/CD pipeline:
+
+![CI/CD Pipeline Flow Diagram](CI_CD_Pipeline_for_Web_Application/img/Flowdiagram.png)
+
+**Flow explained**:
+Developer → GitHub → Jenkins → Docker build → Push to Docker Hub → Deploy to Kubernetes on AWS EC2 → Accessible via Web Browser
+
 1. **Code Checkout**
    - Jenkins pulls the latest code from GitHub when changes are pushed.
    - *Reference*: [GitHub & Jenkins Webhooks Integration](https://www.hatica.io/blog/github-jenkins-webhooks-integration/)
