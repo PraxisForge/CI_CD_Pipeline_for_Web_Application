@@ -103,7 +103,7 @@ Fork the GitHub repository into your account to start working on your own copy.
 
 Below is a visual representation of the CI/CD pipeline:
 
-![CI/CD Pipeline Flow Diagram](CI_CD_Pipeline_for_Web_Application/img/Flowdiagram.png)
+![CI/CD Pipeline Flow Diagram](https://github.com/PraxisForge/CI_CD_Pipeline_for_Web_Application/blob/main/img/Flowdiagram.png)
 
 **Flow explained**:
 Developer → GitHub → Jenkins → Docker build → Push to Docker Hub → Deploy to Kubernetes on AWS EC2 → Accessible via Web Browser
